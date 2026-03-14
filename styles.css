@@ -1,0 +1,46 @@
+html {
+    background-color: greenyellow;
+}
+
+.site-header {
+    background-color: bisque;
+}
+
+.nav {
+    background-color: aquamarine;
+}
+
+.main {
+    background-color: aqua;
+}
+
+.site-footer {
+    background-color: azure;
+}
+
+.uwm-main {
+    background-color: lightgoldenrodyellow;
+}
+
+.aside {
+    background-color: azure;
+    font-family: "Rubik Microbe", system-ui;
+}
+
+.uwm-footer {
+    background-color: darkorange;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 800px;
+    background-color: lightgray;
+}
+
+.section {
+    background-color: yellow;
+}
+
+.article {
+    background-color: lightgoldenrodyellow;
+}
